@@ -37,8 +37,8 @@ A modern, high‑performance web API for accessing New Zealand speed camera da
 git clone https://github.com/your‑org/nz-speed-camera-api.git
 cd nz-speed-camera-api
 
-# Install dependencies using pnpm (recommended) or npm/yarn
-pnpm install
+# Install dependencies using npm
+npm install
 ```
 
 > **Note**: This project uses **Node 20**. Ensure it is installed on your machine.

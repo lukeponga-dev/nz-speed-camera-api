@@ -4,6 +4,7 @@ const cors = require("cors");
 
 const app = express();
 app.use(cors());
+app.use(express.static("public"));
 
 // Load dataset once at startup
 const data = JSON.parse(

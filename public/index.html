@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NZ Speed Camera Radar - Live Map & Analytics Dashboard</title>
+  <meta name="description" content="Explore and analyze New Zealand speed cameras, red light cameras, and average speed zones. Interactive map, advanced search, nearby geolocation warnings, and stats.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <!-- Mobile menu button placeholder -->
+    <button class="mobile-menu-btn" id="mobile-menu-btn" title="Open Menu">
+      <i data-lucide="menu"></i>
+    </button>
+      <!-- Sidebar Header -->
+      <header class="sidebar-header">
+        <div class="logo-area">
+          <div class="logo-icon-glow">
+            <i data-lucide="radar" class="logo-icon"></i>
+          </div>
+          <div>
+            <h1>NZ Speed Cam Radar</h1>
+            <p class="subtitle">Waka Kotahi NZTA Safety Database</p>
+          </div>
+        </div>
+      </header>
+
+      <!-- Sidebar Navigation Tabs -->
+      <nav class="sidebar-tabs">
+        <button class="tab-btn active" data-tab="dashboard" id="tab-dashboard-btn">
+          <i data-lucide="bar-chart-3"></i>
+          <span>Dashboard</span>
+        </button>
+        <button class="tab-btn" data-tab="search-list" id="tab-search-btn">
+          <i data-lucide="search"></i>
+          <span>Cameras</span>
+        </button>
+        <button class="tab-btn" data-tab="nearby" id="tab-nearby-btn">
+          <i data-lucide="navigation"></i>
+          <span>Nearby</span>
+        </button>
+      </nav>
+
+      <!-- Tab Contents Container -->
+      <div class="tab-content-container">
+        
+        <!-- Tab 1: Dashboard -->
+        <section class="tab-content active" id="tab-dashboard">
+          <div class="scroll-content">
+            
+            <!-- Quick Stats Grid -->
+            <div class="stats-grid">
+              <div class="stat-card">
+                <div class="stat-header">
+                  <span class="stat-title">Total Cameras</span>
+                  <div class="stat-icon-wrapper total"><i data-lucide="camera"></i></div>
+                </div>
+                <div class="stat-value" id="stat-total-val">-</div>
+                <div class="stat-desc">Active safety check zones</div>
+              </div>
+              
+              <div class="stat-card">
+                <div class="stat-header">
+                  <span class="stat-title">Speed Cameras</span>
+                  <div class="stat-icon-wrapper speed"><i data-lucide="gauge"></i></div>
+                </div>
+                <div class="stat-value" id="stat-speed-val">-</div>
+                <div class="stat-desc" id="stat-speed-percentage">-% of total</div>
+              </div>
+              
+              <div class="stat-card">
+                <div class="stat-header">
+                  <span class="stat-title">Red Light</span>
+                  <div class="stat-icon-wrapper redlight"><i data-lucide="traffic-cone"></i></div>
+                </div>
+                <div class="stat-value" id="stat-redlight-val">-</div>
+                <div class="stat-desc" id="stat-redlight-percentage">-% of total</div>
+              </div>
+
+              <div class="stat-card">
+                <div class="stat-header">
+                  <span class="stat-title">Average Speed</span>
+                  <div class="stat-icon-wrapper avg-speed"><i data-lucide="timer"></i></div>
+                </div>
+                <div class="stat-value" id="stat-avg-speed-val">-</div>
+                <div class="stat-desc" id="stat-avg-percentage">-% of total</div>
+              </div>
+            </div>
+
+            <!-- Charts Section -->
+            <div class="dashboard-section">
+              <h3 class="section-title">Camera Type Breakdown</h3>
+              <div class="chart-wrapper">
+                <canvas id="typeChart"></canvas>
+              </div>
+            </div>
+
+            <div class="dashboard-section">
+              <h3 class="section-title">Cameras by Region</h3>
+              <div class="chart-wrapper">
+                <canvas id="regionChart"></canvas>
+              </div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Tab 2: Cameras Search & List -->
+        <section class="tab-content" id="tab-search-list">
+          <!-- Filter Area -->
+          <div class="filter-sticky-header">
+            <div class="search-box">
+              <i data-lucide="search" class="search-input-icon"></i>
+              <input type="text" id="camera-search-input" placeholder="Search road name or suburb..." autocomplete="off">
+              <button id="clear-search-btn" class="clear-btn" title="Clear Search">
+                <i data-lucide="x"></i>
+              </button>
+            </div>
+            
+            <div class="filter-row">
+              <div class="select-wrapper">
+                <select id="filter-region-select">
+                  <option value="">All Regions</option>
+                  <!-- Dynamically Populated -->
+                </select>
+                <i data-lucide="chevron-down" class="select-chevron"></i>
+              </div>
+              
+              <div class="select-wrapper">
+                <select id="filter-type-select">
+                  <option value="">All Types</option>
+                  <option value="Speed Camera">Speed Camera</option>
+                  <option value="Red Light Camera">Red Light Camera</option>
+                  <option value="Average Speed Camera">Average Speed Camera</option>
+                </select>
+                <i data-lucide="chevron-down" class="select-chevron"></i>
+              </div>
+            </div>
+            
+            <div class="results-count-row">
+              <span id="results-count">Showing - cameras</span>
+            </div>
+          </div>
+
+          <!-- Scrollable List -->
+          <div class="scroll-content list-content">
+            <div class="camera-list" id="camera-list-container">
+              <!-- Dynamically Populated -->
+              <div class="loading-state">
+                <div class="spinner"></div>
+                <p>Loading speed camera data...</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Tab 3: Nearby Geolocation -->
+        <section class="tab-content" id="tab-nearby">
+          <div class="scroll-content">
+            <div class="nearby-intro-card">
+              <div class="card-icon"><i data-lucide="map-pin"></i></div>
+              <h3>Find Cameras Near You</h3>
+              <p>Detect safety cameras operating in your local vicinity. Enable geolocation or double-click anywhere on the map to define your search center point.</p>
+              
+              <button class="action-btn primary-btn" id="use-location-btn">
+                <i data-lucide="locate-fixed"></i>
+                <span>Use Current Location</span>
+              </button>
+            </div>
+
+            <div class="nearby-controls">
+              <div class="control-group">
+                <label class="control-label">
+                  <span>Search Radius</span>
+                  <span class="control-value-badge" id="radius-value-label">5 km</span>
+                </label>
+                <input type="range" id="nearby-radius-slider" min="1" max="25" value="5" step="1">
+              </div>
+
+              <!-- Selection display -->
+              <div class="selected-point-card" id="selected-point-card" style="display: none;">
+                <div class="point-info">
+                  <i data-lucide="map-pin" class="pin-active"></i>
+                  <div>
+                    <div class="point-title">Selected Center Point</div>
+                    <div class="point-coords" id="selected-coords-val">0.000000, 0.000000</div>
+                  </div>
+                </div>
+                <button class="circle-btn danger" id="clear-nearby-btn" title="Reset nearby search">
+                  <i data-lucide="refresh-cw"></i>
+                </button>
+              </div>
+            </div>
+
+            <div class="nearby-results-section" id="nearby-results-section" style="display: none;">
+              <h4 class="section-subtitle">Nearby Detections (<span id="nearby-count">0</span>)</h4>
+              <div class="camera-list compact-list" id="nearby-list-container">
+                <!-- Dynamically Populated -->
+              </div>
+            </div>
+          </div>
+        </section>
+        
+      </div>
+
+      <!-- Detail Overlay Panel (Sliding Card) -->
+      <div class="detail-overlay" id="detail-overlay">
+        <button class="close-detail-btn" id="close-detail-btn">
+          <i data-lucide="arrow-left"></i>
+          <span>Back to List</span>
+        </button>
+        
+        <div class="detail-content" id="detail-content-area">
+          <!-- Dynamically Populated -->
+        </div>
+      </div>
+      
+    </aside>
+
+    <!-- Map Area -->
+    <main class="map-container">
+      <div id="map"></div>
+      
+      <!-- Quick Map Control Overlays -->
+      <div class="map-controls-overlay">
+        <!-- Floating HUD info badge -->
+        <div class="map-hud-badge" id="map-hud-badge">
+          <i data-lucide="shield-check" class="hud-icon animate-pulse"></i>
+          <span>NZ Safe-Roads Active Map Loaded</span>
+        </div>
+        
+        <!-- Zoom controls customized if desired, or standard leaflet ones styled -->
+      </div>
+    </main>
+
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- App JS -->
+  <script src="app.js"></script>
+</body>
+</html>
