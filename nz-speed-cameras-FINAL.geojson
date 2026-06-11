@@ -1,0 +1,2310 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.69771,
+          -36.726608
+        ]
+      },
+      "properties": {
+        "id": "albany-dairy-flat-highway-oteha-valley-road",
+        "cameraName": "Albany - Dairy Flat Highway and Oteha Valley Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Albany",
+        "roadPrimary": "Dairy Flat Highway",
+        "roadSecondary": "Oteha Valley Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.707517,
+          -36.733279
+        ]
+      },
+      "properties": {
+        "id": "albany-albany-expressway-mercari-way",
+        "cameraName": "Albany - Albany Expressway and Mercari Way",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Albany",
+        "roadPrimary": "Albany Expressway",
+        "roadSecondary": "Mercari Way",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.978749,
+          -37.04245
+        ]
+      },
+      "properties": {
+        "id": "ardmore-papakura-clevedon-road",
+        "cameraName": "Ardmore - Papakura-Clevedon Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Ardmore",
+        "roadPrimary": "Papakura-Clevedon Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.760372,
+          -36.863567
+        ]
+      },
+      "properties": {
+        "id": "auckland-cbd-newton-road-symonds-street",
+        "cameraName": "Auckland CBD - Newton Road and Symonds Street",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Auckland CBD",
+        "roadPrimary": "Newton Road",
+        "roadSecondary": "Symonds Street",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.757917,
+          -36.854033
+        ]
+      },
+      "properties": {
+        "id": "auckland-cbd-union-street-nelson-street",
+        "cameraName": "Auckland CBD - Union Street and Nelson Street",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Auckland CBD",
+        "roadPrimary": "Union Street",
+        "roadSecondary": "Nelson Street",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.760078,
+          -36.85127
+        ]
+      },
+      "properties": {
+        "id": "auckland-cbd-hobson-street-cook-street",
+        "cameraName": "Auckland CBD - Hobson Street and Cook Street",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Auckland CBD",
+        "roadPrimary": "Hobson Street",
+        "roadSecondary": "Cook Street",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.701437,
+          -36.896632
+        ]
+      },
+      "properties": {
+        "id": "avondale-new-north-road-blockhouse-bay-road",
+        "cameraName": "Avondale - New North Road and Blockhouse Bay Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Avondale",
+        "roadPrimary": "New North Road",
+        "roadSecondary": "Blockhouse Bay Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.975693,
+          -37.194201
+        ]
+      },
+      "properties": {
+        "id": "bombay-mill-road",
+        "cameraName": "Bombay - Mill Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Bombay",
+        "roadPrimary": "Mill Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.905981,
+          -36.897582
+        ]
+      },
+      "properties": {
+        "id": "bucklands-beach-pakuranga-road-aviemore-drive",
+        "cameraName": "Bucklands Beach - Pakuranga Road and Aviemore Drive",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Bucklands Beach",
+        "roadPrimary": "Pakuranga Road",
+        "roadSecondary": "Aviemore Drive",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.62161,
+          -36.737975
+        ]
+      },
+      "properties": {
+        "id": "coatesville-coatesville-riverhead-highway",
+        "cameraName": "Coatesville - Coatesville Riverhead Highway",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Coatesville",
+        "roadPrimary": "Coatesville Riverhead Highway",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.65541,
+          -36.630709
+        ]
+      },
+      "properties": {
+        "id": "dairy-flat-dairy-flat-highway",
+        "cameraName": "Dairy Flat - Dairy Flat Highway",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Dairy Flat",
+        "roadPrimary": "Dairy Flat Highway",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.648335,
+          -36.625879
+        ]
+      },
+      "properties": {
+        "id": "dairy-flat-pine-valley-road-camera-a",
+        "cameraName": "Dairy Flat - Pine Valley Road - Camera A",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Dairy Flat",
+        "roadPrimary": "Pine Valley Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "pine-valley-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.648335,
+          -36.625879
+        ]
+      },
+      "properties": {
+        "id": "dairy-flat-pine-valley-road-camera-b",
+        "cameraName": "Dairy Flat - Pine Valley Road - Camera B",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Dairy Flat",
+        "roadPrimary": "Pine Valley Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "pine-valley-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.631107,
+          -36.643479
+        ]
+      },
+      "properties": {
+        "id": "dairy-flat-waitoki-kahikatea-flat-road-camera-a",
+        "cameraName": "Dairy Flat/Waitoki - Kahikatea Flat Road - Camera A",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Dairy Flat/Waitoki",
+        "roadPrimary": "Kahikatea Flat Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "kahikatea-flat-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.631107,
+          -36.643479
+        ]
+      },
+      "properties": {
+        "id": "dairy-flat-waitoki-kahikatea-flat-road-camera-b",
+        "cameraName": "Dairy Flat/Waitoki - Kahikatea Flat Road - Camera B",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Dairy Flat/Waitoki",
+        "roadPrimary": "Kahikatea Flat Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "kahikatea-flat-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.595823,
+          -36.351715
+        ]
+      },
+      "properties": {
+        "id": "dome-valley-state-highway-1",
+        "cameraName": "Dome Valley - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Dome Valley",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.908678,
+          -36.941756
+        ]
+      },
+      "properties": {
+        "id": "east-tamaki-te-irirangi-drive-smales-road",
+        "cameraName": "East Tamaki - Te Irirangi Drive and Smales Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "East Tamaki",
+        "roadPrimary": "Te Irirangi Drive",
+        "roadSecondary": "Smales Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.79942,
+          -36.894302
+        ]
+      },
+      "properties": {
+        "id": "ellerslie-main-highway-great-south-road",
+        "cameraName": "Ellerslie - Main Highway and Great South Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Ellerslie",
+        "roadPrimary": "Main Highway",
+        "roadSecondary": "Great South Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.904907,
+          -36.95459
+        ]
+      },
+      "properties": {
+        "id": "flat-bush-te-irirangi-drive-accent-drive-nb",
+        "cameraName": "Flat Bush - Te Irirangi Drive and Accent Drive NB",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Flat Bush",
+        "roadPrimary": "Te Irirangi Drive",
+        "roadSecondary": "Accent Drive NB",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.636851,
+          -36.909197
+        ]
+      },
+      "properties": {
+        "id": "glen-eden-west-coast-road",
+        "cameraName": "Glen Eden - West Coast Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Glen Eden",
+        "roadPrimary": "West Coast Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.749171,
+          -37.225973
+        ]
+      },
+      "properties": {
+        "id": "glenbrook-glenbrook-waiuku-road",
+        "cameraName": "Glenbrook - Glenbrook-Waiuku Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Glenbrook",
+        "roadPrimary": "Glenbrook-Waiuku Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.789098,
+          -37.174887
+        ]
+      },
+      "properties": {
+        "id": "glenbrook-glenbrook-road",
+        "cameraName": "Glenbrook - Glenbrook Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Glenbrook",
+        "roadPrimary": "Glenbrook Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.720762,
+          -36.782463
+        ]
+      },
+      "properties": {
+        "id": "glenfield-glenfield-road-kaipatiki-road",
+        "cameraName": "Glenfield - Glenfield Road and Kaipatiki Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Glenfield",
+        "roadPrimary": "Glenfield Road",
+        "roadSecondary": "Kaipatiki Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.91201,
+          -36.92879
+        ]
+      },
+      "properties": {
+        "id": "golflands-ti-rakau-drive-te-irirangi-drive",
+        "cameraName": "Golflands - Ti Rakau Drive and Te Irirangi Drive",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Golflands",
+        "roadPrimary": "Ti Rakau Drive",
+        "roadSecondary": "Te Irirangi Drive",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.912799,
+          -36.928403
+        ]
+      },
+      "properties": {
+        "id": "golflands-botany-road-ti-rakau-drive",
+        "cameraName": "Golflands - Botany Road and Ti Rakau Drive",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Golflands",
+        "roadPrimary": "Botany Road",
+        "roadSecondary": "Ti Rakau Drive",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.739946,
+          -36.867017
+        ]
+      },
+      "properties": {
+        "id": "grey-lynn-great-north-road",
+        "cameraName": "Grey Lynn - Great North Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Grey Lynn",
+        "roadPrimary": "Great North Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.752392,
+          -36.859408
+        ]
+      },
+      "properties": {
+        "id": "grey-lynn-ponsonby-road-karangahape-road",
+        "cameraName": "Grey Lynn - Ponsonby Road and Karangahape Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Grey Lynn",
+        "roadPrimary": "Ponsonby Road",
+        "roadSecondary": "Karangahape Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.90189,
+          -36.899183
+        ]
+      },
+      "properties": {
+        "id": "half-moon-bay-pakuranga-road-pidgeon-mountain-road",
+        "cameraName": "Half Moon Bay - Pakuranga Road and Pidgeon Mountain Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Half Moon Bay",
+        "roadPrimary": "Pakuranga Road",
+        "roadSecondary": "Pidgeon Mountain Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.636452,
+          -36.879898
+        ]
+      },
+      "properties": {
+        "id": "henderson-great-north-road",
+        "cameraName": "Henderson - Great North Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Henderson",
+        "roadPrimary": "Great North Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.629207,
+          -36.86235
+        ]
+      },
+      "properties": {
+        "id": "henderson-lincoln-road-pomaria-road",
+        "cameraName": "Henderson - Lincoln Road and Pomaria Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Henderson",
+        "roadPrimary": "Lincoln Road",
+        "roadSecondary": "Pomaria Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.594277,
+          -36.890585
+        ]
+      },
+      "properties": {
+        "id": "henderson-valley-candia-road",
+        "cameraName": "Henderson Valley - Candia Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Henderson Valley",
+        "roadPrimary": "Candia Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.752784,
+          -36.923741
+        ]
+      },
+      "properties": {
+        "id": "hillsborough-hillsborough-road",
+        "cameraName": "Hillsborough - Hillsborough Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Hillsborough",
+        "roadPrimary": "Hillsborough Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.852024,
+          -37.106792
+        ]
+      },
+      "properties": {
+        "id": "karaka-linwood-road",
+        "cameraName": "Karaka - Linwood Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Karaka",
+        "roadPrimary": "Linwood Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.701605,
+          -37.229079
+        ]
+      },
+      "properties": {
+        "id": "karioitahi-awhitu-road",
+        "cameraName": "Karioitahi - Awhitu Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Karioitahi",
+        "roadPrimary": "Awhitu Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.787539,
+          -37.137479
+        ]
+      },
+      "properties": {
+        "id": "kingseat-mckenzie-road",
+        "cameraName": "Kingseat - McKenzie Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Kingseat",
+        "roadPrimary": "McKenzie Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.577123,
+          -36.777229
+        ]
+      },
+      "properties": {
+        "id": "kumeu-old-north-road",
+        "cameraName": "Kumeu - Old North Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Kumeu",
+        "roadPrimary": "Old North Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.677066,
+          -36.717224
+        ]
+      },
+      "properties": {
+        "id": "lucas-heights-dairy-flat-highway",
+        "cameraName": "Lucas Heights - Dairy Flat Highway",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Lucas Heights",
+        "roadPrimary": "Dairy Flat Highway",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.803271,
+          -36.977466
+        ]
+      },
+      "properties": {
+        "id": "mangere-massey-road",
+        "cameraName": "Mangere - Massey Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Mangere",
+        "roadPrimary": "Massey Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.822548,
+          -36.96834
+        ]
+      },
+      "properties": {
+        "id": "mangere-east-buckland-road-massey-road",
+        "cameraName": "Mangere East - Buckland Road and Massey Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Mangere East",
+        "roadPrimary": "Buckland Road",
+        "roadSecondary": "Massey Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.874225,
+          -36.994796
+        ]
+      },
+      "properties": {
+        "id": "manukau-city-lambie-drive-manukau-station-road",
+        "cameraName": "Manukau City - Lambie Drive and Manukau Station Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Manukau City",
+        "roadPrimary": "Lambie Drive",
+        "roadSecondary": "Manukau Station Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.876164,
+          -36.997461
+        ]
+      },
+      "properties": {
+        "id": "manukau-city-wiri-station-road-lambie-drive-road",
+        "cameraName": "Manukau City - Wiri Station Road and Lambie Drive Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Manukau City",
+        "roadPrimary": "Wiri Station Road",
+        "roadSecondary": "Lambie Drive Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.881609,
+          -36.98732
+        ]
+      },
+      "properties": {
+        "id": "manukau-city-great-south-road-cavendish-drive-s000085",
+        "cameraName": "Manukau City - Great South Road and Cavendish Drive - S000085",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Manukau City",
+        "roadPrimary": "Great South Road and Cavendish Drive - S000085",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.881137,
+          -36.9864
+        ]
+      },
+      "properties": {
+        "id": "manukau-city-great-south-road-te-irirangi-drive-s000086",
+        "cameraName": "Manukau City - Great South Road and Te Irirangi Drive - S000086",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Manukau City",
+        "roadPrimary": "Great South Road and Te Irirangi Drive - S000086",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.877436,
+          -36.981192
+        ]
+      },
+      "properties": {
+        "id": "manukau-city-great-south-road-reagan-road",
+        "cameraName": "Manukau City - Great South Road and Reagan Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Manukau City",
+        "roadPrimary": "Great South Road",
+        "roadSecondary": "Reagan Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.667928,
+          -36.909355
+        ]
+      },
+      "properties": {
+        "id": "new-lynn-great-north-road",
+        "cameraName": "New Lynn - Great North Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "New Lynn",
+        "roadPrimary": "Great North Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.679308,
+          -36.905635
+        ]
+      },
+      "properties": {
+        "id": "new-lynn-rata-street",
+        "cameraName": "New Lynn - Rata Street",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "New Lynn",
+        "roadPrimary": "Rata Street",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.702651,
+          -36.881293
+        ]
+      },
+      "properties": {
+        "id": "new-windsor-waterview-tunnel-s000061",
+        "cameraName": "New Windsor - Waterview Tunnel - S000061",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "New Windsor",
+        "roadPrimary": "Waterview Tunnel - S000061",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.702651,
+          -36.881293
+        ]
+      },
+      "properties": {
+        "id": "new-windsor-waterview-tunnel-s000062",
+        "cameraName": "New Windsor - Waterview Tunnel - S000062",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "New Windsor",
+        "roadPrimary": "Waterview Tunnel - S000062",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.702651,
+          -36.881293
+        ]
+      },
+      "properties": {
+        "id": "new-windsor-waterview-tunnel-s000065",
+        "cameraName": "New Windsor - Waterview Tunnel - S000065",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "New Windsor",
+        "roadPrimary": "Waterview Tunnel - S000065",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.810317,
+          -36.856564
+        ]
+      },
+      "properties": {
+        "id": "orakei-ngapipi-road",
+        "cameraName": "Ōrākei - Ngapipi Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Ōrākei",
+        "roadPrimary": "Ngapipi Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.848658,
+          -36.954398
+        ]
+      },
+      "properties": {
+        "id": "otahuhu-great-south-road",
+        "cameraName": "Ōtāhuhu - Great South Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Ōtāhuhu",
+        "roadPrimary": "Great South Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.874408,
+          -36.962319
+        ]
+      },
+      "properties": {
+        "id": "otara-east-tamaki-road-bairds-road",
+        "cameraName": "Ōtara - East Tamaki Road and Bairds Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Ōtara",
+        "roadPrimary": "East Tamaki Road",
+        "roadSecondary": "Bairds Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.870127,
+          -36.962802
+        ]
+      },
+      "properties": {
+        "id": "otara-east-tamaki-road-otara-road",
+        "cameraName": "Ōtara - East Tamaki Road and Ōtara Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Ōtara",
+        "roadPrimary": "East Tamaki Road",
+        "roadSecondary": "Ōtara Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.874047,
+          -36.98931
+        ]
+      },
+      "properties": {
+        "id": "papatoetoe-cavendish-drive-lambie-drive",
+        "cameraName": "Papatoetoe - Cavendish Drive and Lambie Drive",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Papatoetoe",
+        "roadPrimary": "Cavendish Drive",
+        "roadSecondary": "Lambie Drive",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.846025,
+          -36.940175
+        ]
+      },
+      "properties": {
+        "id": "papatoetoe-princes-street-church-street",
+        "cameraName": "Papatoetoe - Princes Street and Church Street",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Papatoetoe",
+        "roadPrimary": "Princes Street",
+        "roadSecondary": "Church Street",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.85959,
+          -36.968302
+        ]
+      },
+      "properties": {
+        "id": "papatoetoe-great-south-road-east-tamaki-road",
+        "cameraName": "Papatoetoe - Great South Road and East Tamaki Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Papatoetoe",
+        "roadPrimary": "Great South Road",
+        "roadSecondary": "East Tamaki Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.788837,
+          -36.847725
+        ]
+      },
+      "properties": {
+        "id": "parnell-tamaki-drive",
+        "cameraName": "Parnell - Tamaki Drive",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Parnell",
+        "roadPrimary": "Tamaki Drive",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.858779,
+          -37.155965
+        ]
+      },
+      "properties": {
+        "id": "patumahoe-ostrich-road",
+        "cameraName": "Patumahoe - Ostrich Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Patumahoe",
+        "roadPrimary": "Ostrich Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.684843,
+          -36.613
+        ]
+      },
+      "properties": {
+        "id": "red-beach-hibiscus-coast-highway-millwater-parkway",
+        "cameraName": "Red Beach - Hibiscus Coast Highway and Millwater Parkway",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Red Beach",
+        "roadPrimary": "Hibiscus Coast Highway",
+        "roadSecondary": "Millwater Parkway",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.70748,
+          -36.693862
+        ]
+      },
+      "properties": {
+        "id": "redvale-east-coast-road",
+        "cameraName": "Redvale - East Coast Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Redvale",
+        "roadPrimary": "East Coast Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.800701,
+          -36.886705
+        ]
+      },
+      "properties": {
+        "id": "remuera-green-lane-east-ascot-avenue",
+        "cameraName": "Remuera - Green Lane East and Ascot Avenue",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Remuera",
+        "roadPrimary": "Green Lane East",
+        "roadSecondary": "Ascot Avenue",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.738868,
+          -36.885416
+        ]
+      },
+      "properties": {
+        "id": "sandringham-balmoral-road-sandringham-road",
+        "cameraName": "Sandringham - Balmoral Road and Sandringham Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Sandringham",
+        "roadPrimary": "Balmoral Road",
+        "roadSecondary": "Sandringham Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.959009,
+          -36.94507
+        ]
+      },
+      "properties": {
+        "id": "shamrock-park-whitford-whitford-road-camera-a",
+        "cameraName": "Shamrock Park/Whitford - Whitford Road - Camera A",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Shamrock Park/Whitford",
+        "roadPrimary": "Whitford Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "whitford-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.959009,
+          -36.94507
+        ]
+      },
+      "properties": {
+        "id": "shamrock-park-whitford-whitford-road-camera-b",
+        "cameraName": "Shamrock Park/Whitford - Whitford Road - Camera B",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Shamrock Park/Whitford",
+        "roadPrimary": "Whitford Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "whitford-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.765623,
+          -36.796787
+        ]
+      },
+      "properties": {
+        "id": "takapuna-esmonde-road-fred-thomas-drive",
+        "cameraName": "Takapuna - Esmonde Road and Fred Thomas Drive",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Takapuna",
+        "roadPrimary": "Esmonde Road",
+        "roadSecondary": "Fred Thomas Drive",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.646708,
+          -36.876589
+        ]
+      },
+      "properties": {
+        "id": "te-atatu-south-te-atatu-road-mcleod-road",
+        "cameraName": "Te Atatū South - Te Atatū Road and McLeod Road",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Te Atatū South",
+        "roadPrimary": "Te Atatū Road",
+        "roadSecondary": "McLeod Road",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.919524,
+          -36.986409
+        ]
+      },
+      "properties": {
+        "id": "totara-park-murphys-road",
+        "cameraName": "Tōtara Park - Murphys Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Tōtara Park",
+        "roadPrimary": "Murphys Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.925266,
+          -36.999782
+        ]
+      },
+      "properties": {
+        "id": "totara-park-mill-road",
+        "cameraName": "Tōtara Park - Mill Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Tōtara Park",
+        "roadPrimary": "Mill Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.545163,
+          -36.844857
+        ]
+      },
+      "properties": {
+        "id": "waitakere-waitakere-road",
+        "cameraName": "Waitakere - Waitakere Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Waitakere",
+        "roadPrimary": "Waitakere Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.789431,
+          -37.217674
+        ]
+      },
+      "properties": {
+        "id": "waiuku-waiuku-road-s000004",
+        "cameraName": "Waiuku - Waiuku Road - S000004",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Waiuku",
+        "roadPrimary": "Waiuku Road - S000004",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.789431,
+          -37.217674
+        ]
+      },
+      "properties": {
+        "id": "waiuku-waiuku-road-s000074",
+        "cameraName": "Waiuku - Waiuku Road - S000074",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Waiuku",
+        "roadPrimary": "Waiuku Road - S000074",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.707304,
+          -36.367498
+        ]
+      },
+      "properties": {
+        "id": "warkworth-matakana-road-camera-a",
+        "cameraName": "Warkworth - Matakana Road - Camera A",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Warkworth",
+        "roadPrimary": "Matakana Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "matakana-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.707304,
+          -36.367498
+        ]
+      },
+      "properties": {
+        "id": "warkworth-matakana-road-camera-b",
+        "cameraName": "Warkworth - Matakana Road - Camera B",
+        "cameraType": "Average Speed Camera",
+        "region": "Auckland",
+        "suburb": "Warkworth",
+        "roadPrimary": "Matakana Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "matakana-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.886099,
+          -37.038829
+        ]
+      },
+      "properties": {
+        "id": "wattle-downs-mahia-road",
+        "cameraName": "Wattle Downs - Mahia Road",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Wattle Downs",
+        "roadPrimary": "Mahia Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.538782,
+          -36.316471
+        ]
+      },
+      "properties": {
+        "id": "wellsford-state-highway-1",
+        "cameraName": "Wellsford - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Auckland",
+        "suburb": "Wellsford",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.73952,
+          -36.74437
+        ]
+      },
+      "properties": {
+        "id": "windsor-park-east-coast-road-constellation-drive",
+        "cameraName": "Windsor Park - East Coast Road and Constellation Drive",
+        "cameraType": "Red Light Camera",
+        "region": "Auckland",
+        "suburb": "Windsor Park",
+        "roadPrimary": "East Coast Road",
+        "roadSecondary": "Constellation Drive",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.728236,
+          -37.878729
+        ]
+      },
+      "properties": {
+        "id": "matata-state-highway-2-camera-a",
+        "cameraName": "Matatā - State Highway 2 - Camera A",
+        "cameraType": "Average Speed Camera",
+        "region": "Bay of Plenty",
+        "suburb": "Matatā",
+        "roadPrimary": "State Highway 2",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "state-highway-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.368983,
+          -38.303871
+        ]
+      },
+      "properties": {
+        "id": "tumunui-state-highway-5-camera-a",
+        "cameraName": "Tumunui - State Highway 5 - Camera A",
+        "cameraType": "Average Speed Camera",
+        "region": "Bay of Plenty",
+        "suburb": "Tumunui",
+        "roadPrimary": "State Highway 5",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "state-highway-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.368983,
+          -38.303871
+        ]
+      },
+      "properties": {
+        "id": "tumunui-state-highway-5-camera-b",
+        "cameraName": "Tumunui - State Highway 5 - Camera B",
+        "cameraType": "Average Speed Camera",
+        "region": "Bay of Plenty",
+        "suburb": "Tumunui",
+        "roadPrimary": "State Highway 5",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "state-highway-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.728236,
+          -37.878729
+        ]
+      },
+      "properties": {
+        "id": "matata-state-highway-2-camera-b",
+        "cameraName": "Matatā - State Highway 2 - Camera B",
+        "cameraType": "Average Speed Camera",
+        "region": "Bay of Plenty",
+        "suburb": "Matatā",
+        "roadPrimary": "State Highway 2",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "state-highway-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.419931,
+          -43.660227
+        ]
+      },
+      "properties": {
+        "id": "springston-leeston-road",
+        "cameraName": "Springston - Leeston Road",
+        "cameraType": "Speed Camera",
+        "region": "Canterbury",
+        "suburb": "Springston",
+        "roadPrimary": "Leeston Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642046,
+          -43.539746
+        ]
+      },
+      "properties": {
+        "id": "sydenham-moorhouse-avenue-madras-street",
+        "cameraName": "Sydenham - Moorhouse Avenue and Madras Street",
+        "cameraType": "Red Light Camera",
+        "region": "Canterbury",
+        "suburb": "Sydenham",
+        "roadPrimary": "Moorhouse Avenue",
+        "roadSecondary": "Madras Street",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639199,
+          -43.539749
+        ]
+      },
+      "properties": {
+        "id": "sydenham-moorhouse-avenue-manchester-street",
+        "cameraName": "Sydenham - Moorhouse Avenue and Manchester Street",
+        "cameraType": "Red Light Camera",
+        "region": "Canterbury",
+        "suburb": "Sydenham",
+        "roadPrimary": "Moorhouse Avenue",
+        "roadSecondary": "Manchester Street",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.273039,
+          -44.258444
+        ]
+      },
+      "properties": {
+        "id": "temuka-state-highway-1",
+        "cameraName": "Temuka - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Canterbury",
+        "suburb": "Temuka",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.49435,
+          -40.40536
+        ]
+      },
+      "properties": {
+        "id": "tiakitahuna-state-highway-56",
+        "cameraName": "Tiakitahuna - State Highway 56",
+        "cameraType": "Speed Camera",
+        "region": "Manawatū-Whanganui",
+        "suburb": "Tiakitahuna",
+        "roadPrimary": "State Highway 56",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.44949,
+          -36.178429
+        ]
+      },
+      "properties": {
+        "id": "kaiwaka-state-highway-1",
+        "cameraName": "Kaiwaka - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Northland",
+        "suburb": "Kaiwaka",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.295622,
+          -35.650547
+        ]
+      },
+      "properties": {
+        "id": "kamo-state-highway-1",
+        "cameraName": "Kamo - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Northland",
+        "suburb": "Kamo",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.049951,
+          -35.373223
+        ]
+      },
+      "properties": {
+        "id": "kawakawa-state-highway-1",
+        "cameraName": "Kawakawa - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Northland",
+        "suburb": "Kawakawa",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.448715,
+          -45.902138
+        ]
+      },
+      "properties": {
+        "id": "dunedin-dunedin-southern-motorway",
+        "cameraName": "Dunedin - Dunedin Southern Motorway",
+        "cameraType": "Speed Camera",
+        "region": "Otago",
+        "suburb": "Dunedin",
+        "roadPrimary": "Dunedin Southern Motorway",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.498166,
+          -45.877703
+        ]
+      },
+      "properties": {
+        "id": "dunedin-central-maclaggan-street",
+        "cameraName": "Dunedin Central - MacLaggan Street",
+        "cameraType": "Speed Camera",
+        "region": "Otago",
+        "suburb": "Dunedin Central",
+        "roadPrimary": "MacLaggan Street",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.496126,
+          -45.89058
+        ]
+      },
+      "properties": {
+        "id": "south-dunedin-king-edward-street",
+        "cameraName": "South Dunedin - King Edward Street",
+        "cameraType": "Speed Camera",
+        "region": "Otago",
+        "suburb": "South Dunedin",
+        "roadPrimary": "King Edward Street",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.952438,
+          -45.102103
+        ]
+      },
+      "properties": {
+        "id": "oamaru-wansbeck-street",
+        "cameraName": "Oamaru - Wansbeck Street",
+        "cameraType": "Speed Camera",
+        "region": "Otago",
+        "suburb": "Oamaru",
+        "roadPrimary": "Wansbeck Street",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.298669,
+          -46.402449
+        ]
+      },
+      "properties": {
+        "id": "southland-otatara-road",
+        "cameraName": "Southland - Ōtātara Road",
+        "cameraType": "Speed Camera",
+        "region": "Southland",
+        "suburb": "Southland",
+        "roadPrimary": "Ōtātara Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.373697,
+          -39.629086
+        ]
+      },
+      "properties": {
+        "id": "mokoia-state-highway-3",
+        "cameraName": "Mokoia - State Highway 3",
+        "cameraType": "Speed Camera",
+        "region": "Taranaki",
+        "suburb": "Mokoia",
+        "roadPrimary": "State Highway 3",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.429783,
+          -37.932033
+        ]
+      },
+      "properties": {
+        "id": "cambridge-cambridge-road",
+        "cameraName": "Cambridge - Cambridge Road",
+        "cameraType": "Speed Camera",
+        "region": "Waikato",
+        "suburb": "Cambridge",
+        "roadPrimary": "Cambridge Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.202307,
+          -37.246016
+        ]
+      },
+      "properties": {
+        "id": "maramarua-state-highway-2",
+        "cameraName": "Maramarua - State Highway 2",
+        "cameraType": "Speed Camera",
+        "region": "Waikato",
+        "suburb": "Maramarua",
+        "roadPrimary": "State Highway 2",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.267588,
+          -38.161434
+        ]
+      },
+      "properties": {
+        "id": "otorohanga-otorohanga-road",
+        "cameraName": "Ōtorohanga - Ōtorohanga Road",
+        "cameraType": "Speed Camera",
+        "region": "Waikato",
+        "suburb": "Ōtorohanga",
+        "roadPrimary": "Ōtorohanga Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.025847,
+          -37.226918
+        ]
+      },
+      "properties": {
+        "id": "pokeno-mangatwhiri-state-highway-2-camera-a",
+        "cameraName": "Pōkeno/Mangatāwhiri - State Highway 2 - Camera A",
+        "cameraType": "Average Speed Camera",
+        "region": "Waikato",
+        "suburb": "Pōkeno/Mangatāwhiri",
+        "roadPrimary": "State Highway 2",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "state-highway-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.025847,
+          -37.226918
+        ]
+      },
+      "properties": {
+        "id": "pokeno-mangatwhiri-state-highway-2-camera-b",
+        "cameraName": "Pōkeno/Mangatāwhiri - State Highway 2 - Camera B",
+        "cameraType": "Average Speed Camera",
+        "region": "Waikato",
+        "suburb": "Pōkeno/Mangatāwhiri",
+        "roadPrimary": "State Highway 2",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": "state-highway-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.92249,
+          -37.834477
+        ]
+      },
+      "properties": {
+        "id": "raglan-state-highway-23",
+        "cameraName": "Raglan - State Highway 23",
+        "cameraType": "Speed Camera",
+        "region": "Waikato",
+        "suburb": "Raglan",
+        "roadPrimary": "State Highway 23",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.902772,
+          -37.882904
+        ]
+      },
+      "properties": {
+        "id": "te-poi-state-highway-29",
+        "cameraName": "Te Poi - State Highway 29",
+        "cameraType": "Speed Camera",
+        "region": "Waikato",
+        "suburb": "Te Poi",
+        "roadPrimary": "State Highway 29",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.816673,
+          -37.401722
+        ]
+      },
+      "properties": {
+        "id": "waihi-state-highway-2",
+        "cameraName": "Waihi - State Highway 2",
+        "cameraType": "Speed Camera",
+        "region": "Waikato",
+        "suburb": "Waihi",
+        "roadPrimary": "State Highway 2",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.778087,
+          -37.411936
+        ]
+      },
+      "properties": {
+        "id": "waikino-state-highway-2",
+        "cameraName": "Waikino - State Highway 2",
+        "cameraType": "Speed Camera",
+        "region": "Waikato",
+        "suburb": "Waikino",
+        "roadPrimary": "State Highway 2",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.858308,
+          -41.122463
+        ]
+      },
+      "properties": {
+        "id": "aotea-whitford-brown-avenue",
+        "cameraName": "Aotea - Whitford Brown Avenue",
+        "cameraType": "Speed Camera",
+        "region": "Wellington",
+        "suburb": "Aotea",
+        "roadPrimary": "Whitford Brown Avenue",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.92317,
+          -41.243898
+        ]
+      },
+      "properties": {
+        "id": "gracefield-wainuiomata-road",
+        "cameraName": "Gracefield - Wainuiomata Road",
+        "cameraType": "Speed Camera",
+        "region": "Wellington",
+        "suburb": "Gracefield",
+        "roadPrimary": "Wainuiomata Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.853939,
+          -41.22535
+        ]
+      },
+      "properties": {
+        "id": "korokoro-state-highway-2-hutt-road",
+        "cameraName": "Korokoro - State Highway 2 – Hutt Road",
+        "cameraType": "Speed Camera",
+        "region": "Wellington",
+        "suburb": "Korokoro",
+        "roadPrimary": "State Highway 2 – Hutt Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.916309,
+          -41.227978
+        ]
+      },
+      "properties": {
+        "id": "lower-hutt-wainui-road",
+        "cameraName": "Lower Hutt - Wainui Road",
+        "cameraType": "Speed Camera",
+        "region": "Wellington",
+        "suburb": "Lower Hutt",
+        "roadPrimary": "Wainui Road",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.807244,
+          -41.234247
+        ]
+      },
+      "properties": {
+        "id": "ngauranga-state-highway-1",
+        "cameraName": "Ngāuranga - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Wellington",
+        "suburb": "Ngāuranga",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.772107,
+          -41.296281
+        ]
+      },
+      "properties": {
+        "id": "te-aro-state-highway-1-karo-drive",
+        "cameraName": "Te Aro - State Highway 1 - Karo Drive",
+        "cameraType": "Red Light Camera",
+        "region": "Wellington",
+        "suburb": "Te Aro",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": "Karo Drive",
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.777341,
+          -41.272157
+        ]
+      },
+      "properties": {
+        "id": "thorndon-state-highway-1",
+        "cameraName": "Thorndon - State Highway 1",
+        "cameraType": "Speed Camera",
+        "region": "Wellington",
+        "suburb": "Thorndon",
+        "roadPrimary": "State Highway 1",
+        "roadSecondary": null,
+        "source": "All speed camera location data is sourced directly from Waka Kotahi NZ Transport Agency (NZTA), the official government agency responsible for road safety and transport infrastructure in New Zealand. This data is licensed under the Creative Commons Attribution 4.0 International licence. The camera location data has been reformatted for interactive map display, but the core location, type, and address information remains unchanged from the original NZTA source.",
+        "groupId": null
+      }
+    }
+  ]
+}
