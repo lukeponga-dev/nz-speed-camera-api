@@ -1,14 +1,20 @@
 const express = require("express");
 const fs = require("fs");
+const path = require("path");
 const cors = require("cors");
 
 const app = express();
 app.use(cors());
-app.use(express.static("public"));
+app.use(express.static(path.join(__dirname, "public")));
 
-// Load dataset once at startup
+// Load dataset once at startup.
+// Resolve the path relative to THIS file (__dirname), not the process
+// working directory, so it works the same locally and on Vercel.
 const data = JSON.parse(
-  fs.readFileSync("nz-speed-cameras-FINAL.geojson", "utf-8")
+  fs.readFileSync(
+    path.join(__dirname, "nz-speed-cameras-FINAL.geojson"),
+    "utf-8"
+  )
 );
 
 // -----------------------------
@@ -101,7 +107,14 @@ app.get("/cameras/:id", (req, res) => {
 });
 
 // -----------------------------
-const PORT = 3000;
-app.listen(PORT, () => {
-  console.log(`🚀 API running on http://localhost:${PORT}`);
-});
+// Only start a long-lived HTTP server when running directly (e.g. locally
+// via `node index.js`). On Vercel the platform invokes the exported app as a
+// serverless function, so we must NOT call app.listen there.
+if (require.main === module) {
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => {
+    console.log(`🚀 API running on http://localhost:${PORT}`);
+  });
+}
+
+module.exports = app;
