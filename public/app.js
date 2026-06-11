@@ -24,12 +24,79 @@ document.addEventListener("DOMContentLoaded", () => {
   let typeChart = null;
   let regionChart = null;
 
-  // Mobile menu toggle
-  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  // ---- Mobile Bottom Sheet + Tab Bar System ----
   const sidebar = document.getElementById('sidebar');
-  mobileMenuBtn.addEventListener('click', () => {
-    sidebar.classList.toggle('active');
+  const mobileTabBar = document.getElementById('mobile-tab-bar');
+  const mobileBackdrop = document.getElementById('mobile-backdrop');
+  const mobTabs = document.querySelectorAll('.mob-tab');
+
+  function isMobile() {
+    return window.matchMedia('(max-width: 768px)').matches;
+  }
+
+  function openSheet(tabId) {
+    sidebar.classList.add('sheet-open');
+    mobileBackdrop.classList.add('visible');
+
+    // Activate the correct tab content (reuse desktop tab system)
+    tabContents.forEach(c => c.classList.remove('active'));
+    const targetPanel = document.getElementById(`tab-${tabId}`);
+    if (targetPanel) targetPanel.classList.add('active');
+
+    // Sync desktop tabs state too
+    tabs.forEach(t => t.classList.remove('active'));
+    tabs.forEach(t => { if (t.dataset.tab === tabId) t.classList.add('active'); });
+
+    // Handle nearby mode
+    if (tabId === 'nearby') {
+      isNearbyModeActive = true;
+      if (map) map.getContainer().style.cursor = 'crosshair';
+      if (nearbyCenter) showNearbyCircleAndMarker();
+    } else {
+      isNearbyModeActive = false;
+      if (map) map.getContainer().style.cursor = '';
+      hideNearbyCircleAndMarker();
+    }
+
+    // Invalidate map size after transition
+    setTimeout(() => { if (map) map.invalidateSize(); }, 400);
+  }
+
+  function closeSheet() {
+    sidebar.classList.remove('sheet-open');
+    mobileBackdrop.classList.remove('visible');
+    setTimeout(() => { if (map) map.invalidateSize(); }, 400);
+  }
+
+  // Bottom tab bar click handling
+  mobTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      // Update active tab highlight
+      mobTabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      const tabId = tab.dataset.mobTab;
+      if (tabId === 'map') {
+        // "Map" tab → close sheet, show map only
+        closeSheet();
+        isNearbyModeActive = false;
+        if (map) map.getContainer().style.cursor = '';
+      } else {
+        openSheet(tabId);
+      }
+    });
   });
+
+  // Backdrop tap to close
+  if (mobileBackdrop) {
+    mobileBackdrop.addEventListener('click', () => {
+      closeSheet();
+      // Reset to map tab
+      mobTabs.forEach(t => t.classList.remove('active'));
+      const mapTab = document.getElementById('mob-tab-map');
+      if (mapTab) mapTab.classList.add('active');
+    });
+  }
 
   // Elements
   const tabs = document.querySelectorAll(".tab-btn");

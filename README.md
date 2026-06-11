@@ -27,7 +27,7 @@ A modern, high‑performance web API for accessing New Zealand speed camera da
 - **Dockerized** for easy deployment.
 - **Rate limiting** and **CORS** protections.
 - **Extensible** architecture – plug‑in new data sources with minimal effort.
-
+- **Responsive Design**: Mobile‑friendly UI with a toggleable sidebar and adaptive layout for all screen sizes.
 ---
 
 ## Installation
